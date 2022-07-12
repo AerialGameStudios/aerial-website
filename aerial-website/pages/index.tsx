@@ -36,7 +36,7 @@ const Home: NextPage = () => {
 					</div>
 				</div>
 				<div className="max-w-sm rounded overflow-hidden shadow-lg">
-					<Image width={384} height={378} className="w-full" src="/8BitArmy.png" alt="Countryball Arena"></Image>
+					<Image width={384} height={378} className="w-full" src="/8BitArmy.png" alt="8-Bit Army"></Image>
 					<div className="px-6 py-4">
 						<div className=" text-white font-bold text-xl mb-2">8-Bit Army (Solo Project by SpookG)</div>
 						<p className="text-white text-base">
