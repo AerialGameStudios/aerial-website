@@ -22,11 +22,11 @@ const Home: NextPage = () => {
 			</div>
 			<div className="grid h-screen place-items-center grid-cols-2">
 				<div className="max-w-sm rounded overflow-hidden shadow-lg">
-					<img className="w-full" src="/CountryballArena.png" alt="Countryball Arena"></img>
+					<Image width={427} height={384} className="w-full" src="/CountryballArena.png" alt="Countryball Arena"></Image>
 					<div className="px-6 py-4">
 						<div className=" text-white font-bold text-xl mb-2">Countryball Arena</div>
 						<p className="text-white text-base">
-						A fun, humorous thrill where you battle the game you're playing. Will be released on Steam.
+						A fun, humorous thrill where you battle the game you&apos;re playing. Will be released on Steam.
 						</p>
 					</div>
 					<div className="px-6 pt-4 pb-2">
@@ -36,7 +36,7 @@ const Home: NextPage = () => {
 					</div>
 				</div>
 				<div className="max-w-sm rounded overflow-hidden shadow-lg">
-					<img className="w-full" src="/8BitArmy.png" alt="Countryball Arena"></img>
+					<Image width={384} height={378} className="w-full" src="/8BitArmy.png" alt="Countryball Arena"></Image>
 					<div className="px-6 py-4">
 						<div className=" text-white font-bold text-xl mb-2">8-Bit Army (Solo Project by SpookG)</div>
 						<p className="text-white text-base">
